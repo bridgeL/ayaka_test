@@ -240,7 +240,7 @@ class FakeQQ:
         for line in helps.split("\n"):
             self.print(line)
         self.print("CQ码：https://docs.go-cqhttp.org/cqcode")
-        self.print("ayaka_test：https://bridgel.github.io/ayaka_doc/test/")
+        self.print("ayaka_test：https://bridgel.github.io/ayaka_doc/latest/intro/test/")
 
 
 fake_qq = FakeQQ()
